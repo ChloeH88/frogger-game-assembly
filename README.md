@@ -1,7 +1,15 @@
 # MIPS Assembly - Frogger Game
 
 ## 🐸 I. How does it look like?
-<img width="728" alt="frogger" src="https://user-images.githubusercontent.com/90373791/210116501-bd959fd7-5538-4894-8f21-
+![Image is broken](frogger.png)
+- Your little green frog starts at the bottom row
+- Grey road & red car row: Avoid the cars!
+- Pink row: safe area
+- Water & Log row: Stay on logs! Do not fall into water
+- Orange destination: Pass one level by fulfilling all 3 orange houses
+- Your score is at top-right corner
+
+**Difficulty increases as level increases.**
 
 ## 🙋🏼‍♀️ II. How to setup and play?
 1) 🧩 Download MARS v4.5 [here](http://courses.missouristate.edu/kenvollmar/mars/download.htm).
@@ -20,6 +28,7 @@
    - `Run > Go`
 6) 🥳 Play the game: 
    - Use `w`, `s`, `a`, `d` to move the frog and play. 
+   - **Pass one level by fulfilling all 3 orange houses on top!**
    - 🎊 Enjoy!
 
 Note: This is my final project of course CSC258 from University of Toronto.
