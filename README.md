@@ -1,6 +1,7 @@
 # MIPS Assembly - Frogger Game
 
 ## 🐸 I. How does it look like?
+<img width="728" alt="frogger" src="https://user-images.githubusercontent.com/90373791/210116501-bd959fd7-5538-4894-8f21-
 
 ## 🙋🏼‍♀️ II. How to setup and play?
 1) 🧩 Download MARS v4.5 [here](http://courses.missouristate.edu/kenvollmar/mars/download.htm).
